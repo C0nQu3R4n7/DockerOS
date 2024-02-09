@@ -1,7 +1,6 @@
 # Dockerfiles
 
 GUI:
-
 Tor Browser
 
 Firefox
@@ -21,11 +20,16 @@ KeepassXC
 Bash
 
 Shell:
-
 Mestasploit
+
 Nmap
+
 Crackmapexec (cme)
+
 Netdiscover
+
 JohnTheRipper (JTR)
+
 TCPdump
+
 Aircrack-ng
