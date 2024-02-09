@@ -3,13 +3,21 @@
 GUI:
 
 Tor Browser
+
 Firefox
+
 Qbittorrent+Tor
+
 Qbittorrent
+
 Pidgin+Tor
+
 Pidgin
+
 Wireshark
+
 KeepassXC
+
 Bash
 
 Shell:
