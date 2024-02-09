@@ -8,5 +8,5 @@ Fonctionement:
 
 Composition:
 
-![DokcerOS](https://github.com/C0nQu3R4n7/DockerOS/assets/144029241/625dca51-3f91-48f8-9f69-94dbe7ef365e)
 
+![COMPOSITION drawio](https://github.com/C0nQu3R4n7/DockerOS/assets/144029241/7a473b24-464f-42e6-a42e-15a6fd0a268b)
