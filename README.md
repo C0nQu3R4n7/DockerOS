@@ -6,7 +6,8 @@ Fonctionement:
 
 ![schema](https://github.com/C0nQu3R4n7/DockerOS/assets/144029241/e766879a-9ef8-474c-9613-0107e1329325)
 
+
 Composition:
 
 
-![COMPOSITION drawio](https://github.com/C0nQu3R4n7/DockerOS/assets/144029241/7a473b24-464f-42e6-a42e-15a6fd0a268b)
+![COMPOSITION drawio (2)](https://github.com/M0rPH3U53/DockerOS/assets/144029241/3f3bccec-3a04-4fac-a4cb-10733eb3a749)
