@@ -1,5 +1,5 @@
 # DockerOS 
-OS basé sur Debian (vm) Projet en cours de développement qui consiste a executer les outils et applications dans des contenaire différent de docker.
+OS basé sur Debian (vm) qui consiste a executer les outils et applications dans des contenaire différent de docker.
 
 Fonctionement:
 
